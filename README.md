@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Xriss-Xross
-- 📋 I'm currently working on a python discord bot and svelte website
 - 🤡 @Cronabot make ur website fool
