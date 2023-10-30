@@ -1,2 +1,1 @@
 - 👋 Hi, I’m Xriss-Xross
-- 🤡 @Cronabot make ur website fool
